@@ -1,21 +1,77 @@
-<h1 align="center">Hello Jee👋, I am Aayan</h1>
-<h3 align="center">A Passionate Software Developer from India, on a mission to collaborate, give back, and build technology that makes a lasting impact🌍</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hello+Jee🤘" alt="Typing Hello Jee" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=I+am+Aayan👨‍💻" alt="Typing I'm Aayan" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub" alt="Typing Welcome" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayan-gzi&label=Profile%20views&color=0e75b6&style=flat" alt="aayan-gzi" /> </p>
+<h3 align="center">
+  A Passionate Computer Science Guy from India 🇮🇳<br>
+  On a mission to collaborate, give back, and craft tech that creates real impact 🌍
+</h3>
 
-- 🎬Outside of tech, I vibe with filmmaking — storytelling through the lens🎥✨ [https://www.youtube.com/@aayan_gzi](https://www.youtube.com/@aayan_gzi)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aayanmohd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayanmohd/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/aayan_gzi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aayan_gzi/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@aayan_gzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aayan_gzi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aayan_gzi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aayan_gzi/" height="30" width="40" /></a>
+### 🛠️ Languages & Tools I Love
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,mongodb,mysql,linux,tensorflow,opencv,arduino" />
+</p>
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding hacker gif" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Me debugging at 3AM" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayan-gzi&show_icons=true&locale=en&layout=compact" alt="aayan-gzi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayan-gzi&show_icons=true&locale=en" alt="aayan-gzi" /></p>
+---
+
+### 👨‍💻 About Me
+
+<p align="center">
+  ▶️ I’m a <strong>YouTuber</strong> sharing dev life, vlogs & tech content → <a href="https://www.youtube.com/@aayan_gzi">Aayan Ghazi</a><br>
+  👨‍💻 SWE Interning <strong>@Arshmart Handicraft</strong><br>
+  👨‍🏫 Ex-Trainee @<strong>Intel Unnati</strong><br>
+  🏆 <strong>SIH 2024 Finalist</strong>(Runner-Up)<br>
+  🏅 <strong>Devयुध Finalist 2025</strong>⚔️<br>
+  👨‍💻 Former Remote SWE Intern @<strong>Refactore HU (Poland)</strong>🌍<br>
+  🎥 Passionate about <strong>tech + filmmaking</strong>🎬✨
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayan-gzi&show_icons=true&theme=radical&hide_border=true" /><br>
+  <img src="https://streak-stats.demolab.com?user=aayan-gzi&theme=radical&hide_border=true" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayan-gzi&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayanmohd/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://instagram.com/aayan_gzi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@aayan_gzi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/aayan_gzi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
+</p>
+
+<h3 align="center">
+  Sometimes, the most complex problems are solved with the simplest lines of code.💡<br>
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00FFB3&center=true&vCenter=true&width=700&lines=I+ain't+just+a+coder...+I+make+1s+and+0s+dance!💃🕺" />
+</p>
