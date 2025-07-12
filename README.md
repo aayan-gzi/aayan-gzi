@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aayan-gzi&label=Profile+Views&color=0e75b6&style=flat" alt="aayan-gzi" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hello+Jee🤘" alt="Typing Hello Jee" /><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=I+am+Aayan👨‍💻" alt="Typing I'm Aayan" /><br>
